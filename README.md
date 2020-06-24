@@ -13,4 +13,4 @@ Each subject is processed individually using HCP_automated.sh, which carries out
 OUTPUT:
 scripts output a .csv containing timeseries for the atlas specified regions of interest (ROIs) and an adjacency matrix corresponding to the pearsons correlation coefficient between all pairwise combinations of timeseries.
 
-![alt text](https://raw.githubusercontent.com/tcama/olfactoryRSN/extended_data_table.jpeg)
+![alt text](https://raw.githubusercontent.com/tcama/olfactoryRSN/Extended_data_table.jpg)
